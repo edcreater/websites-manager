@@ -27,3 +27,4 @@ Default user:
 Login: **demoadmin**
 
 Password: **demoadmin**
+# websites-manager
